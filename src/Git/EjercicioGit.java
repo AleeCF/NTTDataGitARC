@@ -6,7 +6,8 @@ public class EjercicioGit {
 
 
 		System.out.println("Hola mundo!");
-		
+		System.out.println("Hola Alejandro Rebola Casquero!");
+
 	}
 
 }
