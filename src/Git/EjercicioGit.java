@@ -16,6 +16,8 @@ public class EjercicioGit {
 		// Añadiendo el segundo commit en git
 
 		System.out.println("Hola Alejandro Rebola Casquero!");
+		
+		//El tercer commit añade comentarios de autor
 
 	}
 
