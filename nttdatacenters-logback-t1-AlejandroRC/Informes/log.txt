@@ -1,0 +1,3 @@
+13:36:20.342 [main] INFO  com.nttdata.nttdatatallermvnARC.App - [main] - La cadena es correcta.
+13:36:20.347 [main] INFO  Example App - [main] - 'sup? I'm your info logger
+13:36:20.347 [main] DEBUG Example App - [main] - hey HEY hey! I'm your debug logger
